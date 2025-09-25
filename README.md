@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Muhammad Rafi Afrizal</h1>
+<h1 align="center">Hii <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Muhammad Rafi Afrizal</h1>
 <h3 align="center">A Beginner Frontend engineer from Indonesia</h3>
 <br/>
 
